@@ -2,7 +2,7 @@
 
 ## Description
 
-The Phone Cave Catalog App is a simple web application that displays a catalog of phones. Users can view a list of phones, click on a phone to see detailed information, and enjoy a clean, user-friendly interface.
+The Phone Cave Catalog App isgi a simple web application that displays a catalog of phones. Users can view a list of phones, click on a phone to see detailed information, and enjoy a clean, user-friendly interface.
 
 ## Features
 
